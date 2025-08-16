@@ -123,23 +123,23 @@ cd src
 
 ### 🔹 Homepage (index.html)
 
-![Homepage Screenshot](C:\Users\Win\Pictures\Screenshots\Screenshot 2025-08-16 125213.png)
+![Homepage Screenshot](home.png)
 
 ### 🔹 Prediction Dashboard (prediction.html)
 
-![Prediction Screenshot](assets/prediction.png)
+![Prediction Screenshot](prediction.png)
 
 ### 🔹 Fire Spread Map (map.html)
 
-![Map Screenshot](assets/map.png)
+![Map Screenshot](map.png)
 
 ### 🔹 Chatbot (chatbot.html)
 
-![Chatbot Screenshot](assets/chatbot.png)
+![Chatbot Screenshot](chatbot.png)
 
 ### 🔹 Resources Page (resources.html)
 
-![Resources Screenshot](assets/resources.png)
+![Resources Screenshot](resources.png)
 
 ---
 
