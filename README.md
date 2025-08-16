@@ -123,7 +123,7 @@ cd src
 
 ### 🔹 Homepage (index.html)
 
-![Homepage Screenshot](home.png)
+![Homepage Screenshot](Screenshot 2025-08-16 131553.png)
 
 ### 🔹 Prediction Dashboard (prediction.html)
 
