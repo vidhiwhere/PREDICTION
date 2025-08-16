@@ -161,8 +161,3 @@ This project is open-source under the **MIT License**.
 
 ⚡ Maintained by **[Vidhi](https://github.com/vidhiwhere)**
 
----
-
-👉 You’ll need to take **screenshots of each page** (index, prediction, map, chatbot, resources), save them in your repo under `assets/`, and then update the README image paths accordingly.
-
-Would you like me to also **write sample alt-text captions** for screenshots (so GitHub README looks polished and is accessible)?
